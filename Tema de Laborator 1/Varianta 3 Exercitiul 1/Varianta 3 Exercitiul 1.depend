@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508179185 source:c:\users\stefan\desktop\anul ii\tehnici avansate de programare\varianta 3 exercitiul 1\main.cpp
+	<iostream>
+	<fstream>
+	<deque>
+	<random>
+
